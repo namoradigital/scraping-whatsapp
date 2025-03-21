@@ -33,7 +33,7 @@ A simple Python tool that extracts phone numbers from a WhatsApp group in one cl
    ```  
 3. Run the script:  
    ```bash
-   python scraper.py
+   ambil_nomor.py
    ```  
 
 ## How It Works  
