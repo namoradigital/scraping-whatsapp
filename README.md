@@ -1,10 +1,6 @@
 # scraping-whatsapp
 This is a Python-based tool that extracts phone numbers from a WhatsApp group in a single click. It uses Selenium to automate WhatsApp Web and saves the extracted numbers in a CSV file
 
-Berikut format lengkap untuk deskripsi aplikasi di GitHub:  
-
----
-
 # WhatsApp Group Number Scraper  
 
 A simple Python tool that extracts phone numbers from a WhatsApp group in one click using Selenium. The extracted numbers are saved in a CSV file for easy access.  
