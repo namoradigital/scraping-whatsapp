@@ -44,6 +44,3 @@ A simple Python tool that extracts phone numbers from a WhatsApp group in one cl
 ## Disclaimer  
 ⚠️ This tool is for **personal use only**. Scraping user data without consent may violate WhatsApp's terms of service. Use responsibly.  
 
----
-
-Silakan ganti `yourusername` dengan username GitHub Anda. Jika ada tambahan fitur, Anda bisa memperbaruinya sesuai kebutuhan. 🚀
