@@ -22,12 +22,17 @@ A simple Python tool that extracts phone numbers from a WhatsApp group in one cl
    ```bash
    git clone https://github.com/yourusername/whatsapp-number-scraper.git
    cd whatsapp-number-scraper
+   ```
+2. Environment python
+   ```bash
+   python -m venv venv
+   source venv/bin/sctivate
    ```  
-2. Install dependencies:  
+3. Install dependencies:  
    ```bash
    pip install -r requirements.txt
    ```  
-3. Run the script:  
+4. Run the script:  
    ```bash
    python ambil_nomor.py
    ```  
