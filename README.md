@@ -26,7 +26,7 @@ A simple Python tool that extracts phone numbers from a WhatsApp group in one cl
 2. Environment python
    ```bash
    python -m venv venv
-   source venv/bin/sctivate
+   source venv/bin/activate
    ```  
 3. Install dependencies:  
    ```bash
